@@ -1,4 +1,3 @@
 # hello-word
-premier essai
-### pourquoi je fais cette merde 
-**Kongoles aimerait sa BBL
+### pourquoi je fais cette cela 
+**Kongoles aimerait sa BBL**
